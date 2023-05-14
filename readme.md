@@ -9,7 +9,7 @@ Tutorial followed for typescript: [Youtube](https://www.youtube.com/watch?v=ahCw
 
 For enjoying the game, do any of following.
 - Open the `index.html` in any browser.
-- Check [here](). A online hosted verison of this game.
+- Check [here](https://himanshuhsn.github.io/2048/). A online hosted verison of this game.
 
 ## Development
 - Clone the repo.
